@@ -1,0 +1,41 @@
+.services-contenido {
+    padding: 2em;
+    position: relative;
+    display: flex;
+    background-color: #3D64E3;
+    justify-content: center;
+    text-align: center;
+}
+
+.services-titulo {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 4em;
+    font-weight: bold;
+    color: white;
+}
+
+.services-servicio {
+    background-color: white;
+    border-radius: 5%;
+    min-height: 11em;
+    min-width: 11em;
+    margin: 3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    box-shadow: 19px 20px 23px -9px rgba(0,0,0,0.92);
+    -webkit-box-shadow: 19px 20px 23px -9px rgba(0,0,0,0.92);
+    -moz-box-shadow: 19px 20px 23px -9px rgba(0,0,0,0.92);
+}
+
+.services-servicio-nombre {
+
+}
+
+.services-servicio-imagen {
+    width: 50%;
+    height: auto;
+}
